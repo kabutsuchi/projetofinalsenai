@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Senai.DepModas.Dominio, Configuration: Debug Any CPU ------
+1>  Senai.DepModas.Dominio -> C:\Users\marcelo.alves\documents\visual studio 2015\Projects\Senai.DepModas\Senai.DepModas.Dominio\bin\Debug\Senai.DepModas.Dominio.dll
+2>------ Build started: Project: Senai.DepModas.Web, Configuration: Debug Any CPU ------
+2>  Senai.DepModas.Web -> C:\Users\marcelo.alves\documents\visual studio 2015\Projects\Senai.DepModas\Senai.DepModas.Web\bin\Senai.DepModas.Web.dll
+3>------ Build started: Project: Senai.DepModas.UnitTest, Configuration: Debug Any CPU ------
+3>  Senai.DepModas.UnitTest -> C:\Users\marcelo.alves\documents\visual studio 2015\Projects\Senai.DepModas\Senai.DepModas.UnitTest\bin\Debug\Senai.DepModas.UnitTest.dll
+========== Build: 3 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
